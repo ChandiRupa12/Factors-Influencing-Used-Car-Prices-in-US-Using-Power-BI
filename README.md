@@ -1,0 +1,2 @@
+# Factors-Influencing-Used-Car-Prices-in-US-Using-Power-BI
+In this analysis, I will be exploring a comprehensive dataset of used cars, aiming to uncover valuable patterns and trends using Power BI. Through interactive visualizations, we will gain a deeper understanding of various attributes associated with these vehicles and identify key factors influencing their prices and desirability in the market.
